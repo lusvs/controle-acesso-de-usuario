@@ -1,4 +1,4 @@
-const Usuario = 'visitante'
+const Usuario = ''
 
 if (Usuario === 'administrador') {
     console.log('Bem-vindo(a), administrador!')
